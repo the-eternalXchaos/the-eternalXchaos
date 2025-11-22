@@ -115,7 +115,15 @@ class SandeepWagle {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg">
+</picture>
+
+### 🌊 Ocean Theme Variation
+
+![Ocean Snake](https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/ocean.gif)
 
 </div>
 
