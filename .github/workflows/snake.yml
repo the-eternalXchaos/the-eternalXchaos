@@ -1,0 +1,37 @@
+name: Generate Contribution Snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight UTC
+
+jobs:
+  build-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Snake Generator
+        run: |
+          npm install -g github-contribution-snake
+
+      - name: Generate Snake SVG
+        run: |
+          github-contribution-snake --username the-eternalXchaos --output ./output/snake.svg --theme tokyo-night --hide-border true
+
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add ./output/snake.svg
+          git commit -m "Update contribution snake"
+          git push origin output
+        continue-on-error: true
