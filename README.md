@@ -17,13 +17,13 @@
 ```dart
 class SandeepWagle {
   final String title = "Flutter Mobile Developer";
-  final String location = "Kathmandu, Nepal 🇳🇵";
+  final String location = "Pokhara, Nepal 🇳🇵";
   
   final List<String> expertise = [
     "Flutter & Dart",
-    "Clean Architecture",
-    "BLoC State Management",
-    "Feature-First Structure"
+    <!-- "Clean Architecture", -->
+    <!-- "BLoC State Management", -->
+    <!-- "Feature-First Structure" -->
   ];
   
   final Map<String, String> architecture = {
