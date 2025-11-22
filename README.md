@@ -14,33 +14,27 @@
 
 ## 🎯 About Me
 
-```dart
-class SandeepWagle {
-  final String title = "Flutter Mobile Developer";
-  final String location = "Kathmandu, Nepal";
-  
-  final List<String> expertise = [
-    "Flutter & Dart",
-    "Clean Architecture",
-    "BLoC State Management",
-    "Feature-First Structure"
-  ];
-  
-  final Map<String, String> architecture = {
-    "pattern": "Clean Architecture",
-    "structure": "Feature-First",
-    "state_management": "BLoC (flutter_bloc)",
-    "di": "injectable + get_it"
-  };
-  
-  final String currentProject = "Bhumi Connect - Agricultural Networking Platform";
-  final String funFact = "I debug more than I sleep";
-  
-  void sayHi() {
-    print("Let's build something amazing with Flutter!");
-  }
-}
-```
+💼 **Flutter Mobile Developer** from **Kathmandu, Nepal 🇳🇵**
+
+### 🚀 Expertise
+- Flutter & Dart
+- Clean Architecture
+- BLoC State Management
+- Feature-First Structure
+
+### 🏗️ Architecture Approach
+- **Pattern:** Clean Architecture
+- **Structure:** Feature-First
+- **State Management:** BLoC (flutter_bloc)
+- **Dependency Injection:** injectable + get_it
+
+### 💡 Current Project
+📱 **Bhumi Connect** - Agricultural Networking Platform
+
+### ⚡ Fun Fact
+I debug more than I sleep 😄
+
+---
 
 ### 🔥 What I Do
 - 📱 Build scalable mobile applications with **Flutter**
@@ -131,37 +125,42 @@ class SandeepWagle {
 
 ## 🎯 Current Focus & Projects
 
-```dart
-class CurrentJourney {
-  // 📚 Currently Learning
-  final List<String> learning = [
-    "Advanced Flutter Animations",
-    "Scalable App Architecture",
-    "Material Design 3",
-    "Performance Optimization",
-    "Widget Testing & TDD"
-  ];
-  
-  // 💼 Working On
-  final Map<String, String> projects = {
-    "Bhumi Connect": "Agricultural networking platform with feeds, marketplace, chat",
-    "Portfolio": "Personal portfolio website showcasing Flutter projects",
-    "Open Source": "Contributing to Flutter community"
-  };
-  
-  // 🎯 Skills
-  final Map<String, List<String>> skills = {
-    "Architecture": ["Clean Architecture", "Feature-First", "SOLID Principles"],
-    "State Management": ["BLoC Pattern", "flutter_bloc", "Event-State Model"],
-    "UI/UX": ["Material Design 3", "Responsive Design", "Animations"],
-    "Backend Integration": ["REST APIs", "Dio", "Token Management"]
-  };
-  
-  void openForCollaboration() {
-    print("Open for Flutter projects & collaboration!");
-  }
-}
-```
+### 📚 Currently Learning
+- 🚀 Advanced Flutter Animations
+- 🏗️ Scalable App Architecture
+- 🎨 Material Design 3
+- ⚡ Performance Optimization
+- 🧪 Widget Testing & TDD
+
+### 💼 Working On
+- **Bhumi Connect** - Agricultural networking platform with feeds, marketplace, chat
+- **Portfolio** - Personal portfolio website showcasing Flutter projects
+- **Open Source** - Contributing to Flutter community
+
+### 🎯 Core Skills
+
+**Architecture**
+- Clean Architecture
+- Feature-First
+- SOLID Principles
+
+**State Management**
+- BLoC Pattern
+- flutter_bloc
+- Event-State Model
+
+**UI/UX**
+- Material Design 3
+- Responsive Design
+- Animations
+
+**Backend Integration**
+- REST APIs
+- Dio
+- Token Management
+
+### 🤝 Open for Collaboration
+💡 Open for Flutter projects & collaboration!
 
 ---
 
