@@ -21,9 +21,9 @@ class SandeepWagle {
   
   final List<String> expertise = [
     "Flutter & Dart",
-    <!-- "Clean Architecture", -->
-    <!-- "BLoC State Management", -->
-    <!-- "Feature-First Structure" -->
+    "Clean Architecture",
+    "BLoC State Management",
+    "Feature-First Structure"
   ];
   
   final Map<String, String> architecture = {
