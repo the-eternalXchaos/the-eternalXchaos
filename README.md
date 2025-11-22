@@ -17,7 +17,7 @@
 ```dart
 class SandeepWagle {
   final String title = "Flutter Mobile Developer";
-  final String location = "Kathmandu, Nepal 🇳🇵";
+  final String location = "Kathmandu, Nepal";
   
   final List<String> expertise = [
     "Flutter & Dart",
@@ -34,10 +34,10 @@ class SandeepWagle {
   };
   
   final String currentProject = "Bhumi Connect - Agricultural Networking Platform";
-  final String funFact = "I debug more than I sleep 😄";
+  final String funFact = "I debug more than I sleep";
   
   void sayHi() {
-    print("Let's build something amazing with Flutter! 🚀");
+    print("Let's build something amazing with Flutter!");
   }
 }
 ```
@@ -120,10 +120,10 @@ class SandeepWagle {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg">
 </picture>
-
+<!-- 
 ### 🌊 Ocean Theme Variation
 
-![Ocean Snake](https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/ocean.gif)
+![Ocean Snake](https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/ocean.gif) -->
 
 </div>
 
@@ -135,30 +135,30 @@ class SandeepWagle {
 class CurrentJourney {
   // 📚 Currently Learning
   final List<String> learning = [
-    '🚀 Advanced Flutter Animations',
-    '🏗️ Scalable App Architecture',
-    '🎨 Material Design 3',
-    '⚡ Performance Optimization',
-    '🧪 Widget Testing & TDD'
+    "Advanced Flutter Animations",
+    "Scalable App Architecture",
+    "Material Design 3",
+    "Performance Optimization",
+    "Widget Testing & TDD"
   ];
   
   // 💼 Working On
   final Map<String, String> projects = {
-    'Bhumi Connect': 'Agricultural networking platform with feeds, marketplace, chat',
-    'Portfolio': 'Personal portfolio website showcasing Flutter projects',
-    'Open Source': 'Contributing to Flutter community'
+    "Bhumi Connect": "Agricultural networking platform with feeds, marketplace, chat",
+    "Portfolio": "Personal portfolio website showcasing Flutter projects",
+    "Open Source": "Contributing to Flutter community"
   };
   
   // 🎯 Skills
   final Map<String, List<String>> skills = {
-    'Architecture': ['Clean Architecture', 'Feature-First', 'SOLID Principles'],
-    'State Management': ['BLoC Pattern', 'flutter_bloc', 'Event-State Model'],
-    'UI/UX': ['Material Design 3', 'Responsive Design', 'Animations'],
-    'Backend Integration': ['REST APIs', 'Dio', 'Token Management']
+    "Architecture": ["Clean Architecture", "Feature-First", "SOLID Principles"],
+    "State Management": ["BLoC Pattern", "flutter_bloc", "Event-State Model"],
+    "UI/UX": ["Material Design 3", "Responsive Design", "Animations"],
+    "Backend Integration": ["REST APIs", "Dio", "Token Management"]
   };
   
   void openForCollaboration() {
-    print('🤝 Open for Flutter projects & collaboration!');
+    print("Open for Flutter projects & collaboration!");
   }
 }
 ```
