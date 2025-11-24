@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=the-eternalXchaos&theme=tokyonight&no-frame=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=the-eternalXchaos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
